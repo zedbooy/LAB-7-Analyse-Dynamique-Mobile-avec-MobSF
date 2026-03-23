@@ -1,6 +1,6 @@
 # LAB-7-Analyse-Dynamique-Mobile-avec-MobSF
 
-## Étape 1 : Interface MobSF
+## Étape 1 : Emulator
 <img width="539" height="935" alt="image" src="https://github.com/user-attachments/assets/3e6e3518-621e-4dfa-b175-f51347e7035c" />
 
 ## Étape 2 : Chargement de l'APK
